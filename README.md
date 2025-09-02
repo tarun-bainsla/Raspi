@@ -1,2 +1,3 @@
 # Raspi
-A simple Website Design for a Headphone Showcasing
+A Simple E-commerce website for Headphones
+
